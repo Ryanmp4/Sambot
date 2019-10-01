@@ -1,3 +1,7 @@
+## SAMBOT SKYSTONE ROBOT CODE
+
+based off of https://github.com/FIRST-Tech-Challenge/SkyStone
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.  
